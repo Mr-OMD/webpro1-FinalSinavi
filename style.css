@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    text-align: center;
+}
+.content-header{
+    text-align: center;
+    width: 100%;
+}
+.card{
+    text-align: center;
+}
+.card-header{
+    width: 100%;
+}
+li p{
+    color: red;
+}
